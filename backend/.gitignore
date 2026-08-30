@@ -1,0 +1,5 @@
+venv/
+
+*/migrations/00*_initial.py
+
+backend/category/__pycache__/
