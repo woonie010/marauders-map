@@ -1,7 +1,5 @@
 # Marauder's Map
 
-# Marauder's Map
-
 A team project developed at Monash University.
 
 Marauder's Map is a 3D tracking and visualization web application that uses camera-based location data to visualize user movement within an interactive virtual environment.
